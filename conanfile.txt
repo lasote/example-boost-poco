@@ -4,7 +4,3 @@ Poco/1.7.2@lasote/stable
 
 [generators]
 cmake
-
-[options]
-Boost:shared=False
-Poco:shared=False
